@@ -1,9 +1,9 @@
 
 ### Hi there, I'm Grace👋
-<!--### README under construction🚧-->
+### README under construction🚧
 <!-- - 🦄 I am available for Product/Project Management Roles.-->
 
-- 🔭 I’m currently working on becoming a better Product Architect.
+<!-- - 🔭 I’m currently working on becoming a better Product Architect.
 - 💪 My strength is Back-End Software Development with C# using .NET frameworks.
 - 🦄 I am available for .NET Back-End Roles.
 - 🌱 I mainly uses .NET technlogies for my work but open to learn new technologies⚙️.
@@ -30,6 +30,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+-->
 
 
 
