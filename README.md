@@ -6,7 +6,7 @@
 
 # 👋 Hi there, I'm Grace
  
-🎯 **Product Manager | AI/ML Specialist | Freelance AI Developer**
+🎯 **Product Manager | AI/ML Specialist | Freelance AI Engineer**
  
 Welcome to my GitHub! I'm a passionate and experienced **Product Manager** with a strong focus on **AI and Machine Learning solutions**. Over the years, I’ve had the opportunity to lead and build impactful products across healthcare, finance, and operations—merging strategy with data-driven innovation.
  
