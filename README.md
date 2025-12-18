@@ -8,12 +8,12 @@
  
 🎯 **Product Manager | AI/ML Specialist | Freelance AI Engineer**
  
-Welcome to my GitHub! I'm a passionate and experienced **Product Manager** with a strong focus on **AI and Machine Learning solutions**. Over the years, I’ve had the opportunity to lead and build impactful products across healthcare, finance, and operations—merging strategy with data-driven innovation.
+Welcome to my GitHub! I'm a passionate and experienced **Product Manager** with a strong focus on **AI and Machine Learning solutions**. Over the years, I’ve had the opportunity to lead and build impactful products across healthcare, finance, and operations, merging strategy with data-driven innovation.
  
 ---
  
-## 🔧 What I Do- 🧠 **AI/ML Strategy & Delivery** – I specialize in taking ML models from concept to production, balancing user needs, business goals, and technical feasibility.
-- 💻 **Freelance AI/ML Developer** – I build scalable and practical AI/ML solutions for clients, and regularly work on pet projects to sharpen my skills.
+## 🔧 What I Do 🧠 **AI/ML Strategy & Delivery** – I specialize in taking ML models from concept to production, balancing user needs, business goals, and technical feasibility.
+- 💻 **Freelance AI Engineer** – I build scalable and practical AI/ML solutions for clients, and regularly work on pet projects to sharpen my skills.
 - ⚙️ **Product Management** – I manage cross-functional teams, lead sprint planning, define product roadmaps, and ensure delivery of AI-powered features on time and at scale.
  
 ---
